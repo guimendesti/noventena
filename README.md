@@ -5,7 +5,7 @@ Checagem de Regra Noventena para Pesquisas NPS
 
 # Requisitos Mínimos do Ambiente de Desenvolvimetno
  - PHP >= 7.1
- - MySQL >= 5.4
+ - MySQL >= 5.4 <i>(Estrutura e Dados: ./databaseInit.sql)</i>
  - Composer
  
 <br />
