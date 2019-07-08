@@ -17,14 +17,15 @@ Checagem de Regra Noventena para Pesquisas NPS
 
 <br />
 
-# Checando de Cliente pode ser Impactado pela Pesquisa
+# Checando se Cliente pode ser Impactado pela Pesquisa
 <h3>Com o projeto em execução, na porta 8080, acessa a URL:</h3>
 <blockquote>http://localhost:8080/api/clienteNoventena/{ID}</blockquote>
 <i>Substituindo o {ID} pela identificação do Cliente</i>
 
 <br />
+<br />
 
-# Pegando Lista de todos Clientes que podem ser Impactados pela Pesquisa
+# Listando todos Clientes que podem ser Impactados pela Pesquisa
 <h3>Para listar todos os clientes que podem ser impactados, basta remover o {ID} da URL anterior:</h3>
 <blockquote>http://localhost:8080/api/clienteNoventena</blockquote>
 
