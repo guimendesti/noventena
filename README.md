@@ -25,13 +25,13 @@ Checagem de Regra Noventena para Pesquisas NPS
 <br />
 <br />
 
-# Listando todos Clientes que podem ser Impactados pela Pesquisa
+# Listando todos Clientes que podem ser Impactados
 <h3>Para listar todos os clientes que podem ser impactados, basta remover o {ID} da URL anterior:</h3>
 <blockquote>http://localhost:8080/api/clienteNoventena</blockquote>
 
 <br />
 
-# Test PHPUnit nos Endpoints de Checagem da Regra Noventena
+# Test PHPUnit nos Endpoints de Checagem Noventena
 <h3>Acesse o terminal na raiz do projeto, para testar a chegagem individual digite:</h3>
 <blockquote>./vendor/bin/phpunit ./tests/ChecaClienteNoventenaTest.php</blockquote>
 <h4>... e para testar a listagem completa:</h4>
