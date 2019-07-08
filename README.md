@@ -19,7 +19,7 @@ Checagem de Regra Noventena para Pesquisas NPS
 # Executar projeto localmente
 <h3>Acesse a raiz do projeto pelo terminal e digite:</h3>
 <blockquote>composer start</blockquote>
-<h4>Ou se preferir digite o comando PHP direto, com possibilidade de informar outra porta.</h4>
+<h4>Ou se preferir digite o comando PHP abaixo, podendo informar outra porta:</h4>
 <blockquote>php -S localhost:8080 -t public</blockquote>
 
 <br />
