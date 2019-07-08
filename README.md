@@ -3,14 +3,21 @@ Checagem de Regra Noventena para Pesquisas NPS
 
 <br />
 
-# Instalar Dependências
+# Requisitos Mínimos do Ambiente de Desenvolvimetno
+ - PHP >= 7.1
+ - MySQL >= 5.4
+ - Composer
+ 
+<br />
+
+# Instalar Dependências do Projeto
 <h3>Utilizando o [Composer](https://getcomposer.org), pelo terminal na raiz do projeto, digite:</h3>
 <blockquote>composer install</blockquote>
 
 <br />
 
 # Executar projeto localmente
-<h3>Para o projeto funcionar localmente é necessário PHP >= 7 instalado. Digite no terminal:</h3>
+<h3>Acesse a raiz do projeto pelo terminal e digite:</h3>
 <blockquote>composer start</blockquote>
 <h4>Ou se preferir digite o comando PHP direto, com possibilidade de informar outra porta.</h4>
 <blockquote>php -S localhost:8080 -t public</blockquote>
