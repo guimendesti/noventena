@@ -4,13 +4,13 @@ Checagem de Regra Noventena para Pesquisas NPS
 <br />
 
 # Instalar Dependências
-<h3>Utilize o [Composer](https://getcomposer.org), no terminal digite:</h3>
+<h3>Utilizando o [Composer](https://getcomposer.org), pelo terminal na raiz do projeto, digite:</h3>
 <blockquote>composer install</blockquote>
 
 <br />
 
 # Executar projeto localmente
-<h3>Para o projeto funcionar localmente é necessário PHP >= 7 instalado. Usando o composer, digite:</h3>
+<h3>Para o projeto funcionar localmente é necessário PHP >= 7 instalado. Digite no terminal:</h3>
 <blockquote>composer start</blockquote>
 <h4>Ou se preferir digite o comando PHP direto, com possibilidade de informar outra porta.</h4>
 <blockquote>php -S localhost:8080 -t public</blockquote>
