@@ -34,3 +34,12 @@
 [2019-07-08 14:16:45] slim-app.INFO: checando se cliente liberado para pesquisa ... [] {"uid":"3c14fc8"}
 [2019-07-08 14:18:17] slim-app.INFO: lista clientes liberados para pesquisa ... [] {"uid":"cefa333"}
 [2019-07-08 14:18:23] slim-app.INFO: checando se cliente liberado para pesquisa ... [] {"uid":"c3fc737"}
+[2019-07-08 11:36:50] slim-app.INFO: Slim '/' route [] {"uid":"3b98212"}
+[2019-07-08 11:36:50] slim-app.INFO: Slim '/' route [] {"uid":"c87b82a"}
+[2019-07-08 11:37:15] slim-app.INFO: Slim '/' route [] {"uid":"852e785"}
+[2019-07-08 11:40:41] slim-app.INFO: Slim '/' route [] {"uid":"0d3854d"}
+[2019-07-08 11:41:07] slim-app.INFO: lista clientes liberados para pesquisa ... [] {"uid":"cd2e510"}
+[2019-07-08 11:41:12] slim-app.INFO: checando se cliente liberado para pesquisa ... [] {"uid":"5212aeb"}
+[2019-07-08 11:41:15] slim-app.INFO: checando se cliente liberado para pesquisa ... [] {"uid":"3363a52"}
+[2019-07-08 11:41:20] slim-app.INFO: checando se cliente liberado para pesquisa ... [] {"uid":"b449e67"}
+[2019-07-08 11:41:24] slim-app.INFO: checando se cliente liberado para pesquisa ... [] {"uid":"0c7825c"}
